@@ -1,10 +1,10 @@
 # software engineer && acrobat
 
-* interested in software correctness, e.g. testing, type systems, static anaysis and verification
+* Interested in software correctness, e.g. testing, type systems, static anaysis and verification
+* Also interested in formal logic and SMT solving
 * programming languages and compiler nerd
 * open source contributor
 * Haskell ex-beginner
-* training & acrobatics on https://maurobringolf.ch.
 
 ## current work
 
