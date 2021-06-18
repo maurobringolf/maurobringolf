@@ -1,10 +1,11 @@
 # software engineer && acrobat
 
-* Interested in software correctness, e.g. testing, type systems, static anaysis and verification
-* Also interested in formal logic and SMT solving
+* generally interested in software correctness, e.g. testing, type systems, static anaysis and verification
+* specifially interested in formal logic and SMT solving
 * programming languages and compiler nerd
 * open source contributor
 * Haskell ex-beginner
+* part-time acrobat, e.g. handstands, backflips et cetera
 
 ## current work
 
