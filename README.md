@@ -15,7 +15,7 @@
   
 * Lambda Calculus [personal project] | *Haskell, Lambda Calculus, compiler, interpreter*
 
-  I am writing a compiler for a small subset of Haskell to pure lambda calculus.
+  I am writing a compiler for a small subset of Haskell to pure lambda calculus. Utterly useless and glorious.
 
 * Haskell bindings for Z3 [[opensource](https://github.com/IagoAbal/haskell-z3)] | *Haskell, Z3*
 
