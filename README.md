@@ -13,9 +13,9 @@
 
   My master thesis project at ETH Zürich. I am implementing a semantic method to mutate SMT-LIB formulas in a satisfiability-preserving way to help uncover bugs in widely used solvers like Z3 and CVC4.
   
-* Lambda Calculus [personal project] | *Haskell, Lambda Calculus, compiler, interpreter*
+* Lambda Calculus [[personal project](https://github.com/maurobringolf/lambda-calculus)] | *Haskell, Lambda Calculus, compiler, interpreter*
 
-  I am writing a compiler for a small subset of Haskell to pure lambda calculus. Utterly useless and glorious.
+  I am writing a compiler for a small subset of Haskell to pure lambda calculus. Useless but glorious.
 
 * Haskell bindings for Z3 [[opensource](https://github.com/IagoAbal/haskell-z3)] | *Haskell, Z3*
 
