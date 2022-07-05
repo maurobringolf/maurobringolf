@@ -1,3 +1,3 @@
-# software engineer && acrobat
+# software engineer
 
 https://maurobringolf.ch
